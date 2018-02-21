@@ -1,4 +1,12 @@
-echo "new data file">rishi.text
+echo "new data file " >rishi.text
 git add .
+if [[ "$?" -eq 0 ]] ; then
 git commit -m "new message"
-git push origin master
+
+else
+	echo "add failed"
+	exit
+fi
+
+git push origin maste:wq
+
