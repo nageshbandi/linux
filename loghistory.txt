@@ -1,0 +1,36 @@
+f149640e8b03aaa0a05eac1ca2013299cda05ad5 new file add to the stageing area
+1f012da26a0c078dbe003955a8189a6be95e7db0 delet some files
+e4de5cf85322d22c3985746d06ade219f91c3161 delet the linux.text file
+8f6a1afe391f77693054ce283e755b74b29213eb new change in this commit
+6d08a01c691d642c93b66da661bae153ef0ceba9 new conmmit:
+ee8c2b36fea6e115ae37e2d65d058f4f5293010b dellet file name
+ee11319280266177b47dd8ea020319f1d5010b76 new line for data
+a252bff832b98e91d7023aa9b2172b9aeb249797 new branch
+bc9fb962589ea95f4cd860ff1833f4aee208c7fe automation
+a4fb29b3b992fe122e9c0184bc775fe985d85cbb new message
+90e78503d046409ef474a116538f260389b68436 new cahnge
+cfe9bbf25e9f67818626ed5a1377ccf45b10fff0 nag sh
+6f0929174795cd240a9d3c8afa67c82193044459 new adding
+6f6f845fcd9ae98be2675a67d1ba19e8c4841c6a new bramch code
+8c98217649969562f59f7040eb95a7a83468f76e new shell program
+fdfa40dc6b012b84874a7a92e16e0cae94798245 new changes
+bb1ca036b58a1e8a1c1f6c486a02f9f74fadff8d Create Shell.sh
+9f212c41fbbada64795e8277a419b91499422e5f Initial commit
+f149640 - bandinagesh, 6 hours ago : new file add to the stageing area
+1f012da - bandinagesh, 6 hours ago : delet some files
+e4de5cf - bandinagesh, 6 hours ago : delet the linux.text file
+8f6a1af - bandinagesh, 7 hours ago : new change in this commit
+6d08a01 - bandinagesh, 4 days ago : new conmmit:
+ee8c2b3 - nageshbandi, 10 days ago : dellet file name
+ee11319 - nageshbandi, 10 days ago : new line for data
+a252bff - nageshbandi, 11 days ago : new branch
+bc9fb96 - nageshbandi, 11 days ago : automation
+a4fb29b - nageshbandi, 12 days ago : new message
+90e7850 - nageshbandi, 12 days ago : new cahnge
+cfe9bbf - nageshbandi, 13 days ago : nag sh
+6f09291 - nageshbandi, 13 days ago : new adding
+6f6f845 - nageshbandi, 13 days ago : new bramch code
+8c98217 - nageshbandi, 13 days ago : new shell program
+fdfa40d - nageshbandi, 13 days ago : new changes
+bb1ca03 - nageshbandi, 3 weeks ago : Create Shell.sh
+9f212c4 - nageshbandi, 3 weeks ago : Initial commit
