@@ -16,3 +16,5 @@ git fecchig data
 this is add after for the ssh key gen
   
 before mearege the data
+
+after generating the first key gen
